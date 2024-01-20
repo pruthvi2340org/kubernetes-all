@@ -3,8 +3,8 @@
 use below commands
 ```
 git clone https://github.com/Pruthvi2340/kubernetes-all.git
-chmod 777 cert-manager/acme-reusable-issuing-script-for-gke-nginx-ingress.sh
-./cert-manager/acme-reusable-issuing-script-for-gke-nginx-ingress.sh
+chmod 777 kubernetes-all/cert-manager/acme-reusable-issuing-script-for-gke-nginx-ingress.sh
+./kubernetes-all/cert-manager/acme-reusable-issuing-script-for-gke-nginx-ingress.sh
 ```
 ```
 Enter the domain host (e.g., retail.pruthvi.org): demo1.pruthvi.org
