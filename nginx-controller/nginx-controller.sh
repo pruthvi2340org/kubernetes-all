@@ -2,7 +2,6 @@
 
 git clone https://github.com/nginxinc/kubernetes-ingress.git --branch release-3.4
 
-
 cd kubernetes-ingress
 
 # Create a namespace and a service account:
